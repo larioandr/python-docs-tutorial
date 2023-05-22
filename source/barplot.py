@@ -1,3 +1,8 @@
+"""
+barplot.py
+==========
+Build the plots
+"""
 # plot bar chart with Matplotlib
 from collections import Counter
 import matplotlib.pyplot as plt

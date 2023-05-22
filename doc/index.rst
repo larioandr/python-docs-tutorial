@@ -9,9 +9,19 @@ Basics
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
 
    purpose.rst
    dependencies.rst
    usage.rst
    credit.rst
    exercises.rst
+   modules/barplot.rst
+   modules/mode.rst
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

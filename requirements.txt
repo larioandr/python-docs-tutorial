@@ -1,0 +1,11 @@
+  click
+  ipywidgets
+  jupyterlab
+  jupyterlab-git
+  matplotlib
+  numpy
+  pandas
+  pytest
+  seaborn
+  sphinx
+  sphinx_rtd_theme
