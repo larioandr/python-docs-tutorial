@@ -16,8 +16,7 @@ Basics
    usage.rst
    credit.rst
    exercises.rst
-   modules/barplot.rst
-   modules/mode.rst
+   modules.rst
 
 Indices and tables
 ==================
